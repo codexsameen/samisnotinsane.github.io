@@ -1,8 +1,8 @@
------
+---
 layout: page
 title: About
 permalink: /about/
------
+---
 
 Hi, I’m Sameen, an AI Engineer based in London.
 
