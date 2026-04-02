@@ -1,10 +1,9 @@
------
-
+---
 layout: post
 title: “Back, with something to build”
 date: 2026-04-02
 categories: general
-------
+---
 
 In early 2020, I wrote a couple of posts here about what AI could do for society. A few weeks after the second one, Apple’s AI Strategy lead John Giannandrea stood in a room in London and said *“we haven’t even seen the beginning of AI.”*
 
