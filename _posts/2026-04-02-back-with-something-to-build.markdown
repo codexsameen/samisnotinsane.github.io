@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: “Back, with something to build”
+title: Back, with something to build
 date: 2026-04-02
 categories: general
 ---
