@@ -1,23 +1,15 @@
----
+-----
 layout: page
 title: About
 permalink: /about/
----
+-----
 
-Hi! I am Sameen, a computer science graduate from London, England whose passion lies in artificial intelligence and software development.
+Hi, I’m Sameen, an AI Engineer based in London.
 
-I have an undergraduate degree in Computer Science from Queen Mary University of London with an internship with Airbus Defence and Space where I worked with the database team of the ESA [ExoMars 2022 Mars rover](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_2022_rover).
+Most recently I was a Generative AI Engineer (AVP) at Citigroup, where I worked on [Citi Assist](https://www.reuters.com/technology/artificial-intelligence/citigroup-rolls-out-artificial-intelligence-tools-employees-eight-countries-2024-12-04) — a generative AI assistant deployed to 140,000+ employees across 8 countries. Before that I was a Software Engineer at Provenir, where I architected a large-scale ML pipeline for financial fraud detection using graph analysis on AWS, and a Junior Computer Vision Engineer at Disperse. Earlier in my career I worked as a Software Developer at Accenture in financial services, and as an intern at Airbus Defence & Space on the ESA [ExoMars](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_rover) rover team.
 
-Following graduation, I worked as a System Developer Analyst at [Accenture](https://www.accenture.com/gb-en) for almost a year, focusing in the Financial Services industry. 
+I hold an MSc in AI from the University of Southampton and a First Class BSc in Computer Science from Queen Mary University of London.
 
-You can follow my [other blog](https://medium.com/@risingdragon111), which is more non-technical in nature.
+This blog is where I write about the things I’m building and thinking about in AI engineering. I also have a [non-technical blog](https://medium.com/@risingdragon111) where I write about AI’s broader impact on society.
 
-All content is hosted under my [Github profile](https://github.com/samisnotinsane).
-
-I [Tweet](https://twitter.com/samisnotinsane7) about interesting tech related contents from various communities.
-
-You are more than welcome to add me to your [LinkedIn](https://www.linkedin.com/in/sameen-islam/) network.
-
-Please reach out to me via Twitter or LinkedIn.
-
-Thanks for stopping by!
+You can find me on [LinkedIn](https://www.linkedin.com/in/sameen-islam/), [GitHub](https://github.com/codexsameen), and [Twitter](https://twitter.com/sameen_builds).
